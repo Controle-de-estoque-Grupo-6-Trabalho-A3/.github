@@ -25,6 +25,7 @@ Este projeto é um sistema de gerenciamento de estoque para lojas de tintas. Ele
 
 **Missão:** Simplificar o gerenciamento de estoque, proporcionando aos nossos clientes as ferramentas necessárias para maximizar sua eficiência, minimizar custos e garantir a satisfação dos clientes finais.
 
+![image](https://github.com/Controle-de-estoque-Grupo-6-Trabalho-A3/.github/assets/132380444/7a446d97-c9cc-4a61-b7ca-cdd49a0ce5e3)
 
 ## Funcionalidades
 
