@@ -40,7 +40,15 @@ O sistema oferece as seguintes funcionalidades:
 
   - Controle de Acesso: Implementar medidas de segurança para garantir que apenas pessoal autorizado tenha acesso ao sistema.
 
-  
+## Tecnologias
+
+[Python](https://docs.python.org/pt-br/3/tutorial/)
+
+[Pytest](https://docs.pytest.org/en/7.4.x/)
+
+[SQLite](https://www.sqlite.org/docs.html)
+
+
 ## Como Contribuir
 
 Estamos sempre procurando melhorar nosso sistema. Se você tiver alguma sugestão ou feedback, fique à vontade para nos enviar um e-mail pamella.santosbrr@gmail.com , patrikaraujomaia@gmail.com , rodolfo.ritza@gmail.com , filipe238br@live.com 
